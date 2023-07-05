@@ -1938,12 +1938,7 @@ eslint-scope@^7.1.1:
     esrecurse "^4.3.0"
     estraverse "^5.2.0"
 
-eslint-visitor-keys@^3.3.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-3.4.0.tgz#c7f0f956124ce677047ddbc192a68f999454dedc"
-  integrity sha512-HPpKPUBQcAsZOsHAFwTtIKcYlCje62XB7SEAcxjtmW6TD1WVpkS6i6/hOVtTZIl4zGj/mBqpFVGvaDneik+VoQ==
-
-eslint-visitor-keys@^3.4.0:
+eslint-visitor-keys@^3.3.0, eslint-visitor-keys@^3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-3.4.0.tgz#c7f0f956124ce677047ddbc192a68f999454dedc"
   integrity sha512-HPpKPUBQcAsZOsHAFwTtIKcYlCje62XB7SEAcxjtmW6TD1WVpkS6i6/hOVtTZIl4zGj/mBqpFVGvaDneik+VoQ==
@@ -2151,9 +2146,9 @@ fast-diff@^1.1.2:
   integrity sha512-xJuoT5+L99XlZ8twedaRf6Ax2TgQVxvgZOYoPKqZufmJib0tL2tegPBOZb1pVNgIhlqDlA0eO0c3wBvQcmzx4w==
 
 fast-glob@^3.2.9:
-  version "3.2.12"
-  resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-3.2.12.tgz#7f39ec99c2e6ab030337142da9e0c18f37afae80"
-  integrity sha512-DVj4CQIYYow0BlaelwK1pHl5n5cRSJfM60UA0zK891sVInoPri2Ekj7+e1CT3/3qxXenpI+nBBmQAcJPJgaj4w==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-3.3.0.tgz#7c40cb491e1e2ed5664749e87bfb516dbe8727c0"
+  integrity sha512-ChDuvbOypPuNjO8yIDf36x7BlZX1smcUMTTcyoIjycexOxd6DFsKsg21qVBzEmr3G7fUKIRy2/psii+CIUt7FA==
   dependencies:
     "@nodelib/fs.stat" "^2.0.2"
     "@nodelib/fs.walk" "^1.2.3"
@@ -4493,9 +4488,9 @@ ts-node@^10.4.0, ts-node@^10.9.1:
     yn "3.1.1"
 
 tsc-alias@^1.8.4:
-  version "1.8.5"
-  resolved "https://registry.yarnpkg.com/tsc-alias/-/tsc-alias-1.8.5.tgz#6b74e938230573354c9118deb58fd341d06d6253"
-  integrity sha512-Y3ka0olwSRdbHPyX5kXhYY2aoBKuT53DFdeY+PpQUR4hg5M/b8eIRmC8dL4FBdd0wT366iWc6iDUUGe6QwI7mg==
+  version "1.8.7"
+  resolved "https://registry.yarnpkg.com/tsc-alias/-/tsc-alias-1.8.7.tgz#4f8721b031a31345fa9f1fa8d3cf209d925abb88"
+  integrity sha512-59Q/zUQa3miTf99mLbSqaW0hi1jt4WoG8Uhe5hSZJHQpSoFW9eEwvW7jlKMHXWvT+zrzy3SN9PE/YBhQ+WVydA==
   dependencies:
     chokidar "^3.5.3"
     commander "^9.0.0"
